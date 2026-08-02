@@ -38,3 +38,12 @@ next-env.d.ts
 .vercel
 
 ss.txt
+
+# claude / agent tooling
+.claude/
+.agents/
+
+# backups and archives
+backup-paginas-template-nao-usadas.zip
+out.zip
+skills-lock.json
